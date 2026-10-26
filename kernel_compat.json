@@ -1,0 +1,2148 @@
+{
+  "schema": 2,
+  "title": "Android Kernel Compatibility Index",
+  "description": "公开可查的 Android 设备与内核版本兼容性对照数据，仅含设备元信息，不含任何可执行内容。",
+  "license": "CC-BY-4.0",
+  "generated": "2026-10-26",
+  "total": 122,
+  "fields": {
+    "vendor": "设备厂商",
+    "device": "设备商品名",
+    "models": "可用于匹配的型号字符串（小写）",
+    "kernel": "Linux 内核三段版本号",
+    "kernel_family": "内核主次版本",
+    "soc_names": "SoC 商品名或代号",
+    "kmi": "内核模块接口版本",
+    "codename": "设备代号",
+    "build": "系统构建号",
+    "file_size": "对应内核模块文件字节数"
+  },
+  "entries": [
+    {
+      "vendor": "vivo",
+      "device": "内置 all-in-one 库（libbs.so）",
+      "models": [],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 176544
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo10 Pro+",
+      "models": [
+        "iqoo neo10 pro+"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147104
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo10 Pro+",
+      "models": [
+        "iqoo neo10 pro+"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147104
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO 13",
+      "models": [
+        "iqoo 13"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147104
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO 13",
+      "models": [
+        "iqoo 13"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147104
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO 13",
+      "models": [
+        "iqoo 13"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147104
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO 13",
+      "models": [
+        "iqoo 13"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147104
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo11",
+      "models": [
+        "iqoo neo11",
+        "iqoo 11"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147104
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO 13 / iQOO Neo11 / vivo X200 Ultra",
+      "models": [],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 157784
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo10 Pro",
+      "models": [
+        "iqoo neo10 pro"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo10 Pro",
+      "models": [
+        "iqoo neo10 pro"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo10 Pro",
+      "models": [
+        "iqoo neo10 pro"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Z10 Turbo+ / vivo X200 / X200 Pro mini / X200 Pro / X200S / iQOO Neo10 Pro",
+      "models": [
+        "iqoo z10 turbo+"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 156824
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Z10 Turbo+",
+      "models": [
+        "iqoo z10 turbo+"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 157672
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200",
+      "models": [
+        "vivo x200"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200S",
+      "models": [
+        "vivo x200s"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147112
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200S",
+      "models": [
+        "vivo x200s"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147112
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200S",
+      "models": [
+        "vivo x200s"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200S",
+      "models": [
+        "vivo x200s"
+      ],
+      "kernel": "6.6.57",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200S",
+      "models": [
+        "vivo x200s"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147112
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X200S",
+      "models": [
+        "vivo x200s"
+      ],
+      "kernel": "6.6.89",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400+",
+          "part": "MT6993+",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo Pad5 Pro",
+      "models": [
+        "vivo pad5 pro"
+      ],
+      "kernel": "6.6.127",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo Pad5 Pro",
+      "models": [
+        "vivo pad5 pro"
+      ],
+      "kernel": "6.6.30",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "天玑 9400",
+          "part": "MT6993",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 147048
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO 12（Android 15）",
+      "models": [
+        "iqoo 12"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen3",
+          "part": "SM8650",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 154240
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Redmi K90 / Civi 5 Pro / Pad 8 / Turbo 4 Pro（骁龙 8 Gen 3 家族）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen3",
+          "part": "SM8650",
+          "socVendor": "qualcomm"
+        },
+        {
+          "soc": "骁龙 8 Gen2",
+          "part": "SM8550",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 85608
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Redmi K80 Pro / Xiaomi 15 Pro / Xiaomi 15 Ultra（骁龙 8 至尊版家族）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Elite",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        },
+        {
+          "soc": "骁龙 8 Gen3",
+          "part": "SM8650",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 85608
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Xiaomi 15 / Xiaomi Pad 8 Pro（骁龙 8 Elite 家族）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Elite",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 85624
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Redmi K70 Ultra（OS3）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "天玑 9300+",
+          "part": "MT6989",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 164976
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "小米 13 系列等 6 款（骁龙 8 Gen 2）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen2",
+          "part": "SM8550",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 1889584
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "小米天玑 8000～8250（MT6895）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "天玑 8000/8100/8200",
+          "part": "MT6895",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 4982680
+    },
+    {
+      "vendor": "samsung",
+      "device": "三星 W26（Galaxy Z Fold7 中国版）",
+      "models": [
+        "w26",
+        "sm-f9660"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Elite",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 93576
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 10 Pro Fold（rango）",
+      "models": [
+        "rango"
+      ],
+      "kernel": "6.6.118",
+      "kernel_family": "6.6",
+      "soc_names": [],
+      "kmi": "android15-6.6",
+      "codename": "Pixel 10 Pro Fold",
+      "build": "CP2A.260705.006",
+      "file_size": 82976
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 10 Pro XL（mustang）",
+      "models": [
+        "mustang"
+      ],
+      "kernel": "6.6.118",
+      "kernel_family": "6.6",
+      "soc_names": [],
+      "kmi": "android15-6.6",
+      "codename": "Pixel 10 Pro XL",
+      "build": "CP2A.260705.006",
+      "file_size": 83552
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 10 Pro（blazer）",
+      "models": [
+        "blazer"
+      ],
+      "kernel": "6.6.118",
+      "kernel_family": "6.6",
+      "soc_names": [],
+      "kmi": "android15-6.6",
+      "codename": "Pixel 10 Pro",
+      "build": "CP2A.260705.006",
+      "file_size": 82976
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 10a（stallion）",
+      "models": [
+        "stallion"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 10a",
+      "build": "CP2A.260805.005",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 10（frankel）",
+      "models": [
+        "frankel"
+      ],
+      "kernel": "6.6.118",
+      "kernel_family": "6.6",
+      "soc_names": [],
+      "kmi": "android15-6.6",
+      "codename": "Pixel 10",
+      "build": "CP2A.260705.006",
+      "file_size": 118544
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 11 Pro Fold（yogi）",
+      "models": [
+        "yogi"
+      ],
+      "kernel": "6.12.69",
+      "kernel_family": "6.12",
+      "soc_names": [],
+      "kmi": "android16-6.12",
+      "codename": "Pixel 11 Pro Fold",
+      "build": "CD1A.260618.001.C3",
+      "file_size": 141600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 11 Pro XL（kodiak）",
+      "models": [
+        "kodiak"
+      ],
+      "kernel": "6.12.69",
+      "kernel_family": "6.12",
+      "soc_names": [],
+      "kmi": "android16-6.12",
+      "codename": "Pixel 11 Pro XL",
+      "build": "CD1A.260618.001.C2",
+      "file_size": 141600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 11 Pro（grizzly）",
+      "models": [
+        "grizzly"
+      ],
+      "kernel": "6.12.69",
+      "kernel_family": "6.12",
+      "soc_names": [],
+      "kmi": "android16-6.12",
+      "codename": "Pixel 11 Pro",
+      "build": "CD1A.260618.001.C2",
+      "file_size": 141600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 11（cubs）",
+      "models": [
+        "cubs"
+      ],
+      "kernel": "6.12.69",
+      "kernel_family": "6.12",
+      "soc_names": [],
+      "kmi": "android16-6.12",
+      "codename": "Pixel 11",
+      "build": "CD1A.260618.001.C2",
+      "file_size": 141600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 6 Pro（raven）",
+      "models": [
+        "raven"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 6 Pro",
+      "build": "CP2A.260705.006",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 6a（bluejay）",
+      "models": [
+        "bluejay"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 6a",
+      "build": "CP2A.260705.006",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 6a（bluejay）",
+      "models": [
+        "bluejay"
+      ],
+      "kernel": "6.1.145",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 6a",
+      "build": "CP1A.260405.005",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 6（oriole）",
+      "models": [
+        "oriole"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 6",
+      "build": "CP2A.260705.006",
+      "file_size": 92440
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 7 Pro（cheetah）",
+      "models": [
+        "cheetah"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 7 Pro",
+      "build": "CP2A.260705.006",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 7a（lynx）",
+      "models": [
+        "lynx"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 7a",
+      "build": "CP2A.260705.006",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 7（panther）",
+      "models": [
+        "panther"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 7",
+      "build": "CP2A.260705.006",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 7（panther）",
+      "models": [
+        "panther"
+      ],
+      "kernel": "6.1.124",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 7",
+      "build": "BP2A.250705.008",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 8 Pro（husky）",
+      "models": [
+        "husky"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 8 Pro",
+      "build": "CP2A.260705.006",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 8a（akita）",
+      "models": [
+        "akita"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 8a",
+      "build": "CP2A.260805.005",
+      "file_size": 92928
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 8（shiba）",
+      "models": [
+        "shiba"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 8",
+      "build": "CP2A.260705.006",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 9 Pro Fold（comet）",
+      "models": [
+        "comet"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 9 Pro Fold",
+      "build": "CP2A.260705.006",
+      "file_size": 128600
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 9 Pro XL（komodo）",
+      "models": [
+        "komodo"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 9 Pro XL",
+      "build": "CP2A.260705.006",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 9 Pro（caiman）",
+      "models": [
+        "caiman"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 9 Pro",
+      "build": "CP2A.260705.006",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 9a（tegu）",
+      "models": [
+        "tegu"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 9a",
+      "build": "CP2A.260705.006",
+      "file_size": 92736
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 9（tokay）",
+      "models": [
+        "tokay"
+      ],
+      "kernel": "6.1.75",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 9",
+      "build": "AD1A.240905.004",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel 9（tokay）",
+      "models": [
+        "tokay"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel 9",
+      "build": "CP2A.260705.006",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel Fold（felix）",
+      "models": [
+        "felix"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel Fold",
+      "build": "CP2A.260605.012",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel Tablet（tangorpro）",
+      "models": [
+        "tangorpro"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel Tablet",
+      "build": "CP2A.260705.006",
+      "file_size": 128824
+    },
+    {
+      "vendor": "google",
+      "device": "Pixel Tablet（tangorpro）",
+      "models": [
+        "tangorpro"
+      ],
+      "kernel": "6.1.99",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "android14-6.1",
+      "codename": "Pixel Tablet",
+      "build": "BP1A.250405.007",
+      "file_size": 128824
+    },
+    {
+      "vendor": "oppo",
+      "device": "OPPO A5 Pro 5G",
+      "models": [
+        "oppo a5 pro 5g"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 221288
+    },
+    {
+      "vendor": "oppo",
+      "device": "OPPO PJA110",
+      "models": [
+        "pja110"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 144904
+    },
+    {
+      "vendor": "oppo",
+      "device": "OPPO PKJ110",
+      "models": [
+        "pkj110"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 229376
+    },
+    {
+      "vendor": "oppo",
+      "device": "OPPO Reno2（PCKM00）",
+      "models": [
+        "pckm00"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 169976
+    },
+    {
+      "vendor": "oppo",
+      "device": "OPPO（天玑 MT6835 平台）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "天玑 700/6020",
+          "part": "MT6835",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 175584
+    },
+    {
+      "vendor": "other",
+      "device": "Android-CVE-2026-43499",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 11032
+    },
+    {
+      "vendor": "other",
+      "device": "Android-CVE-2026-43499",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 8492
+    },
+    {
+      "vendor": "other",
+      "device": "Ki-PrisonBreak（通用工具）",
+      "models": [],
+      "kernel": "6.6.118",
+      "kernel_family": "6.6",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 58432
+    },
+    {
+      "vendor": "other",
+      "device": "通用载荷（未标机型）",
+      "models": [],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 123720
+    },
+    {
+      "vendor": "realme",
+      "device": "realme RMX5200 / RE6030L1",
+      "models": [
+        "rmx5200",
+        "re6030l1"
+      ],
+      "kernel": "6.12.23",
+      "kernel_family": "6.12",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 87992
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy A15（SM-A155）",
+      "models": [
+        "sm-a155",
+        "a155"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "Exynos 1480",
+          "part": "S5E8845",
+          "socVendor": "samsung"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "A155NKSS6BYH1",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy A36 5G（SM-A366）",
+      "models": [
+        "sm-a366",
+        "a366"
+      ],
+      "kernel": "6.6.46",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 6 Gen3",
+          "part": "SM6475",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "A366WVLS3AYG1",
+      "file_size": 128688
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy A37",
+      "models": [
+        "galaxy a37"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 448224
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy A37",
+      "models": [
+        "galaxy a37"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 449040
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy A56 5G（SM-A566）",
+      "models": [
+        "sm-a566",
+        "a566",
+        "SM-A5660",
+        "SM-A566B",
+        "SM-A566E",
+        "SM-A566S",
+        "SM-A566U1",
+        "SM-A566W"
+      ],
+      "kernel": "6.6.102",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "Exynos 1580",
+          "part": "S5E8855",
+          "socVendor": "samsung"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "A566EXXSCCZG6",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S21 5G（SM-G991）",
+      "models": [
+        "o1q",
+        "sm-g991",
+        "SM-G991U"
+      ],
+      "kernel": "5.4.274",
+      "kernel_family": "5.4",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "G991USQSHHYI1",
+      "file_size": 78864
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S21 5G（SM-G991）",
+      "models": [
+        "o1s",
+        "sm-g991"
+      ],
+      "kernel": "5.4.274",
+      "kernel_family": "5.4",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "G991BXXSJHZC2",
+      "file_size": 134920
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S21 FE 5G（SM-G990B2）",
+      "models": [
+        "r9q",
+        "sm-g990b2",
+        "SM-G990B2"
+      ],
+      "kernel": "5.4.289",
+      "kernel_family": "5.4",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "G990B2XXSJIZF1",
+      "file_size": 123328
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S23 FE（SM-S721）",
+      "models": [
+        "sm-s721",
+        "s721"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "Exynos 2400",
+          "part": "S5E9945",
+          "socVendor": "samsung"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S721NKSSCDZF3",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S23 Ultra（SM-S9180）",
+      "models": [
+        "sm-s9180",
+        "s9180"
+      ],
+      "kernel": "5.15.189",
+      "kernel_family": "5.15",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen2",
+          "part": "SM8550",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 131072
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S23 Ultra（SM-S9180）",
+      "models": [
+        "sm-s9180",
+        "s9180"
+      ],
+      "kernel": "5.15.189",
+      "kernel_family": "5.15",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen2",
+          "part": "SM8550",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 131072
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S23 Ultra（SM-S9180）",
+      "models": [
+        "sm-s9180",
+        "s9180"
+      ],
+      "kernel": "5.15.189",
+      "kernel_family": "5.15",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen2",
+          "part": "SM8550",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 131072
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S23 Ultra（SM-S918U）",
+      "models": [
+        "sm-s918u"
+      ],
+      "kernel": "5.15.189",
+      "kernel_family": "5.15",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen2",
+          "part": "SM8550",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 134040
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S23 Ultra（SM-S918）",
+      "models": [
+        "dm3q",
+        "sm-s918"
+      ],
+      "kernel": "5.15.189",
+      "kernel_family": "5.15",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen2",
+          "part": "SM8550",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S9180ZHS8FZF5",
+      "file_size": 137728
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S24 Ultra（SM-S928）",
+      "models": [
+        "e3q",
+        "sm-s928",
+        "SM-S928U"
+      ],
+      "kernel": "6.1.145",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen3",
+          "part": "SM8650",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S928USQS6DZF2",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S24 Ultra（SM-S928）",
+      "models": [
+        "e3q",
+        "sm-s928",
+        "SM-S928U"
+      ],
+      "kernel": "6.1.145",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen3",
+          "part": "SM8650",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S928USQS6DZF2",
+      "file_size": 129992
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S24+（SM-S926）",
+      "models": [
+        "e2s",
+        "sm-s926"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "Exynos 2400",
+          "part": "S5E9945",
+          "socVendor": "samsung"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S926BXXUEDZDR",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S24（SM-S921）",
+      "models": [
+        "e1s",
+        "sm-s921"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "Exynos 2400",
+          "part": "S5E9945",
+          "socVendor": "samsung"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S921NKSSFDZF3",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S24（SM-S921）",
+      "models": [
+        "e1s",
+        "sm-s921"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "Exynos 2400",
+          "part": "S5E9945",
+          "socVendor": "samsung"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S921BXXSFDZF2",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S24（SM-S921）",
+      "models": [
+        "e1s",
+        "sm-s921"
+      ],
+      "kernel": "6.1.157",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "Exynos 2400",
+          "part": "S5E9945",
+          "socVendor": "samsung"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S921BXXSFDZE1",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S25 Ultra（SM-S938）",
+      "models": [
+        "pa3q",
+        "sm-s938"
+      ],
+      "kernel": "6.6.98",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Elite",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S938NKSUACZF1",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S25 Ultra（SM-S938）",
+      "models": [
+        "pa3q",
+        "sm-s938"
+      ],
+      "kernel": "6.6.98",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Elite",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "S9380ZHUBCZF1",
+      "file_size": 104128
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S26 Ultra（SM-S948）",
+      "models": [
+        "m3q",
+        "sm-s948"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 111088
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S26（SM-S942）",
+      "models": [
+        "m1q",
+        "sm-s942"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "S942U1UES4AZG3",
+      "file_size": 162816
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S26（SM-S942）",
+      "models": [
+        "m1q",
+        "sm-s942"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "BP4A.251205.006",
+      "file_size": 233176
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S26（SM-S942）",
+      "models": [
+        "m1q",
+        "sm-s942"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 111184
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S26（SM-S942）",
+      "models": [
+        "m1q",
+        "sm-s942"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 125232
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S26（SM-S942）",
+      "models": [
+        "m1q",
+        "sm-s942"
+      ],
+      "kernel": "6.12.30",
+      "kernel_family": "6.12",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 235712
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy S26（SM-S942）",
+      "models": [
+        "m1q",
+        "sm-s942"
+      ],
+      "kernel": "6.12.30",
+      "kernel_family": "6.12",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 235712
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy Tab S 10.5（SM-T807）",
+      "models": [
+        "sm-t807",
+        "t807"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 139080
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy Tab S 10.5（SM-T807）",
+      "models": [
+        "sm-t807",
+        "t807"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 139600
+    },
+    {
+      "vendor": "samsung",
+      "device": "Galaxy Z Fold7（SM-F966）",
+      "models": [
+        "q7q",
+        "sm-f966"
+      ],
+      "kernel": "6.6.98",
+      "kernel_family": "6.6",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Elite",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "F966USQU9BZDN",
+      "file_size": 111216
+    },
+    {
+      "vendor": "samsung",
+      "device": "SM-G781W",
+      "models": [
+        "SM-G781W"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 309784
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo11（PD2520）",
+      "models": [
+        "pd2520"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 至尊版",
+          "part": "SM8750",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 144720
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Neo8",
+      "models": [
+        "iqoo neo8"
+      ],
+      "kernel": "6.1.115",
+      "kernel_family": "6.1",
+      "soc_names": [
+        {
+          "soc": "天玑 9200",
+          "part": "MT6985",
+          "socVendor": "mediatek"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 91056
+    },
+    {
+      "vendor": "vivo",
+      "device": "iQOO Z9 5G",
+      "models": [
+        "iqoo z9 5g"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 136584
+    },
+    {
+      "vendor": "vivo",
+      "device": "vivo X100（PD2309）",
+      "models": [
+        "pd2309",
+        "v2309a"
+      ],
+      "kernel": "6.1.145",
+      "kernel_family": "6.1",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "PD2309_A_16.2.14.0.W10.V000L1",
+      "file_size": 271432
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Redmi K40（4.19 内核）",
+      "models": [
+        "alioth",
+        "k40"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 870",
+          "part": "SM8250",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 157768
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Redmi K40（4.19 内核）",
+      "models": [
+        "alioth",
+        "k40"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 870",
+          "part": "SM8250",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 177672
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Redmi K40（4.19 内核）",
+      "models": [
+        "alioth",
+        "k40"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 870",
+          "part": "SM8250",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 72400
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Redmi Pad Pro (dizi) / POCO Pad 5G",
+      "models": [
+        "dizi"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen3",
+          "part": "SM8650",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 214616
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "Xiaomi 8E5 系列",
+      "models": [
+        "8e5"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Elite Gen5",
+          "part": "SM8850",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 85608
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "小米平板 7 Ultra / 15S Pro（XRing O1）",
+      "models": [],
+      "kernel": "6.6.118",
+      "kernel_family": "6.6",
+      "soc_names": [],
+      "kmi": "",
+      "codename": "",
+      "build": "",
+      "file_size": 118672
+    },
+    {
+      "vendor": "xiaomi",
+      "device": "小米平板 7 Ultra（jinghu）",
+      "models": [
+        "jinghu"
+      ],
+      "kernel": "",
+      "kernel_family": "",
+      "soc_names": [
+        {
+          "soc": "骁龙 8 Gen3",
+          "part": "SM8650",
+          "socVendor": "qualcomm"
+        }
+      ],
+      "kmi": "",
+      "codename": "小米折叠屏",
+      "build": "CP2A.260605.012",
+      "file_size": 151400
+    }
+  ]
+}
