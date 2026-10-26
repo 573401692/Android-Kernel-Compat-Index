@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "title": "Data Sources",
+  "generated": "2026-10-26",
+  "note": "本索引仅汇总公开设备元信息，不转载任何二进制内容。",
+  "github_sources": [
+    {
+      "repo": "hmascs/KSuRoot",
+      "title": "基础设备/内核目录",
+      "description": "提供设备与内核版本的基础对照数据",
+      "url": "https://github.com/hmascs/KSuRoot",
+      "reachable": true,
+      "pushed_at": "2026-10-02T08:20:25Z",
+      "archived": true
+    },
+    {
+      "repo": "alex193a/Root-My-Pixel",
+      "title": "Pixel 机型档案",
+      "description": "Pixel 系列 kernelRelease 与 KMI 信息",
+      "url": "https://github.com/alex193a/Root-My-Pixel",
+      "reachable": true,
+      "pushed_at": "2026-09-13T16:31:27Z",
+      "archived": false
+    },
+    {
+      "repo": "newazbenalam/Root-My-Galaxy-Payloads",
+      "title": "三星机型档案",
+      "description": "Galaxy 系列机型与内核版本对照",
+      "url": "https://github.com/newazbenalam/Root-My-Galaxy-Payloads",
+      "reachable": true,
+      "pushed_at": "2026-09-14T16:10:52Z",
+      "archived": false
+    },
+    {
+      "repo": "sorrow404Null/CVE-2026-43499-RMX5200",
+      "title": "realme 机型档案",
+      "description": "realme RMX5200 设备信息",
+      "url": "https://github.com/sorrow404Null/CVE-2026-43499-RMX5200",
+      "reachable": true,
+      "pushed_at": "2026-07-17T13:09:02Z",
+      "archived": false
+    }
+  ],
+  "official_sources": [
+    {
+      "name": "vivo 官网参数页",
+      "url": "https://www.vivo.com.cn/",
+      "description": "SoC 型号与机型对应关系核对"
+    },
+    {
+      "name": "小米官网参数页",
+      "url": "https://www.mi.com/",
+      "description": "SoC 型号与机型对应关系核对"
+    }
+  ]
+}
